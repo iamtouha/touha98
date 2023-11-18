@@ -15,9 +15,10 @@ I am a full stack developer with 4 years of experience in building responsive we
 - Experience with Git and version control
 
 ## Projects
-- [Onushilonic](https://www.onushilonic.com/)
-- [TEDxRUET](https://tedxruet.vercel.app/)
+- [Innomarkt Chat](http://chat.innomarktconsultancy.com/)
+- [TEDxRUET](https://tedxruet.org/)
 - [Gadget Era](https://www.gadgeterabd.com/)
+- [Innomarkt Chat](http://chat.innomarktconsultancy.com/)
 
 ## Contact
 - Email: touha98@email.com
